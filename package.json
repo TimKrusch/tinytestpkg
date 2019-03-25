@@ -1,0 +1,7 @@
+{
+  "name": "@tim_vesputi/tinytestpkg",
+  "version": "1.0.0",
+  "description": "Print something",
+  "repository": "timkrusch/tinytestpkg",
+  "main": "index.js"
+}
