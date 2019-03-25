@@ -1,6 +1,6 @@
 # @TimKrusch/tinytestpkg
 
-![npm (scoped)](https://img.shields.io/badge/npm-2.0.1-blue.svg)
+![npm (scoped)](https://img.shields.io/badge/npm-2.0.2-blue.svg)
 (https://github.com/TimKrusch/tinytestpkg)
 
 It's tiny test :)
