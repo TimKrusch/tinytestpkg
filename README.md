@@ -4,3 +4,17 @@
 (https://github.com/TimKrusch/tinytestpkg)
 
 It's tiny test :)
+
+## Install
+
+```
+$ npm install @timkrusch/tinytestpkg
+```
+
+## Usage
+
+```js
+const tinytestpkg = require("@timkrusch/tinytestpkg");
+
+tinytestpkg();
+//=> "Vesputi rules!"
