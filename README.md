@@ -8,13 +8,17 @@ It's tiny test :)
 ## Install
 
 ```
-$ npm install @timkrusch/tinytestpkg
+$ npm install @tim_vesputi/tinytestpkg
+$ yarn add @tim_vesputi/tinytestpkg
 ```
 
 ## Usage
 
 ```js
-const tinytestpkg = require("@timkrusch/tinytestpkg");
+const tinytestpkg = require("@tim_vesputi/tinytestpkg");
+
+//react
+import tinytestpkg from "@tim_vesputi/tinytestpkg";
 
 tinytestpkg();
 //=> "Vesputi rules!"
