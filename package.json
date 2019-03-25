@@ -2,6 +2,13 @@
   "name": "@tim_vesputi/tinytestpkg",
   "version": "1.0.0",
   "description": "Print something",
+  "license": "MIT",
   "repository": "timkrusch/tinytestpkg",
-  "main": "index.js"
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "Vesputi"
+  ]
 }
