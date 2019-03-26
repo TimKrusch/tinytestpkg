@@ -1,9 +1,10 @@
-# @TimKrusch/tinytestpkg
+# @tim_vesputi/tinytestpkg
 
-![npm (scoped)](https://img.shields.io/badge/npm-2.0.2-blue.svg)
+![npm (scoped)](https://img.shields.io/badge/npm-2.0.3-blue.svg)
 (https://github.com/TimKrusch/tinytestpkg)
 
-It's tiny test :)
+It's tiny npm package test :)
+Prints "Vesputi rules!"
 
 ## Install
 

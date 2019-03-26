@@ -1,7 +1,7 @@
 {
   "name": "@tim_vesputi/tinytestpkg",
-  "version": "2.0.2",
-  "description": "Print something",
+  "version": "2.0.3",
+  "description": "Print Vesputi rules!",
   "license": "MIT",
   "repository": "timkrusch/tinytestpkg",
   "main": "index.js",
